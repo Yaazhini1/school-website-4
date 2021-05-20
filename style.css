@@ -1,0 +1,40 @@
+#skate {
+    margin-top: 50px;
+}
+
+#h1 {
+    padding-right: 10px
+}
+
+#Achievements {
+    text-align: center
+}
+
+#skating {
+    background-color: coral;
+    padding-bottom: 10px;
+}
+
+#img1 {
+    width:300px;
+        height: 300px;
+}
+
+#skating2 {
+    background-color: deeppink;
+    padding-bottom: 10px;
+}
+
+#img2 {
+    width:300px;
+        height: 300px;
+}
+
+
+
+#myImg {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
